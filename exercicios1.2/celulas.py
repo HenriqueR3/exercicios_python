@@ -14,7 +14,7 @@ Não esqueça de imprimir o fim de linha após cada linha,
 caso contrário seu programa apresentará a mensagem: “Presentation Error”. """
 
 
-valor = int( input() )
+valor = int( input())
 
 notas = [100, 50, 20, 10, 5, 2, 1]
 dict_notas = {}
